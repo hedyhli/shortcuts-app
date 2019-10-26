@@ -1,5 +1,5 @@
 # Displaying text
-description
+Display some text as an alert box.
 
 <br>
 
@@ -7,7 +7,7 @@ description
 text
   {hello world}
 Scripting
-  Show *text
+  Show {*text}
 ```
  *Note: Variables are show with an `*`, and customizable things are surrounded by `{}`.*
  
